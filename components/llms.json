@@ -1,0 +1,1144 @@
+[{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c33"
+  },
+  "gemini": "claude-3-5-sonnet-20240620",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 59.68,
+  "Reasoning Average": 58.67,
+  "Mathematics Average": 53.75,
+  "Data Analysis Average": 56.74,
+  "Language Average": 56.94,
+  "IF Average": 72.3,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Limited Access"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c34"
+  },
+  "gemini": "gpt-4o-2024-08-06",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 57.76,
+  "Reasoning Average": 54.67,
+  "Mathematics Average": 52.29,
+  "Data Analysis Average": 52.89,
+  "Language Average": 54.37,
+  "IF Average": 74.58,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c35"
+  },
+  "gemini": "meta-llama-3.1-405b-instruct-turbo",
+  "VQA Enabled": "No",
+  "Parameters": "405B",
+  "Global Average": 56.34,
+  "Reasoning Average": 53.33,
+  "Mathematics Average": 46.55,
+  "Data Analysis Average": 53.51,
+  "Language Average": 49.85,
+  "IF Average": 78.47,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c36"
+  },
+  "gemini": "chatgpt-4o-latest",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 56.22,
+  "Reasoning Average": 52,
+  "Mathematics Average": 52.19,
+  "Data Analysis Average": 54.43,
+  "Language Average": 49.95,
+  "IF Average": 72.52,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c37"
+  },
+  "gemini": "gpt-4o-2024-05-13",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 55.68,
+  "Reasoning Average": 50,
+  "Mathematics Average": 49.88,
+  "Data Analysis Average": 52.41,
+  "Language Average": 53.94,
+  "IF Average": 72.17,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c38"
+  },
+  "gemini": "gemini-1.5-pro-exp-0801",
+  "VQA Enabled": "Yes",
+  "Parameters": "Not Disclosed",
+  "Global Average": 54.42,
+  "Reasoning Average": 48.67,
+  "Mathematics Average": 47.46,
+  "Data Analysis Average": 50.15,
+  "Language Average": 46.96,
+  "IF Average": 78.84,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Limited Access"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c39"
+  },
+  "gemini": "gpt-4-turbo-2024-04-09",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 53.66,
+  "Reasoning Average": 51.33,
+  "Mathematics Average": 48.99,
+  "Data Analysis Average": 51.32,
+  "Language Average": 45.26,
+  "IF Average": 71.39,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c3a"
+  },
+  "gemini": "claude-3-opus-20240229",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 52.96,
+  "Reasoning Average": 41.33,
+  "Mathematics Average": 46.54,
+  "Data Analysis Average": 54.32,
+  "Language Average": 51.72,
+  "IF Average": 70.87,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Limited Access"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c3b"
+  },
+  "gemini": "meta-llama-3.1-70b-instruct-turbo",
+  "VQA Enabled": "No",
+  "Parameters": "70B",
+  "Global Average": 51.6,
+  "Reasoning Average": 40.67,
+  "Mathematics Average": 45.58,
+  "Data Analysis Average": 50.29,
+  "Language Average": 42.36,
+  "IF Average": 79.08,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c3c"
+  },
+  "gemini": "dracarys-llama-3.1-70b-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "70B",
+  "Global Average": 51.36,
+  "Reasoning Average": 44,
+  "Mathematics Average": 45.68,
+  "Data Analysis Average": 47.99,
+  "Language Average": 41.77,
+  "IF Average": 77.37,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c3d"
+  },
+  "gemini": "gpt-4-0125-preview",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 50.32,
+  "Reasoning Average": 47.33,
+  "Mathematics Average": 42.75,
+  "Data Analysis Average": 54.06,
+  "Language Average": 43.55,
+  "IF Average": 63.92,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c3e"
+  },
+  "gemini": "mistral-large-2407",
+  "VQA Enabled": "No",
+  "Parameters": "123B",
+  "Global Average": 48.15,
+  "Reasoning Average": 42,
+  "Mathematics Average": 40.48,
+  "Data Analysis Average": 46.61,
+  "Language Average": 39.79,
+  "IF Average": 71.85,
+  "Open Source": "No",
+  "Fine-Tunable": "Yes",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c3f"
+  },
+  "gemini": "deepseek-coder-v2",
+  "VQA Enabled": "No",
+  "Parameters": "236B",
+  "Global Average": 47.27,
+  "Reasoning Average": 45.33,
+  "Mathematics Average": 52.54,
+  "Data Analysis Average": 38.25,
+  "Language Average": 33.04,
+  "IF Average": 67.18,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c40"
+  },
+  "gemini": "gpt-4-0613",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 47.25,
+  "Reasoning Average": 34.67,
+  "Mathematics Average": 36.22,
+  "Data Analysis Average": 44.03,
+  "Language Average": 49.57,
+  "IF Average": 71.79,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c41"
+  },
+  "gemini": "gemini-1.5-pro-api-0514",
+  "VQA Enabled": "Yes",
+  "Parameters": "Not Disclosed",
+  "Global Average": 47.2,
+  "Reasoning Average": 35.33,
+  "Mathematics Average": 42.42,
+  "Data Analysis Average": 52.81,
+  "Language Average": 38.25,
+  "IF Average": 67.2,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Limited Access"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c42"
+  },
+  "gemini": "deepseek-chat-v2",
+  "VQA Enabled": "No",
+  "Parameters": "236B",
+  "Global Average": 47.02,
+  "Reasoning Average": 40,
+  "Mathematics Average": 52.11,
+  "Data Analysis Average": 45.59,
+  "Language Average": 32.77,
+  "IF Average": 64.61,
+  "Open Source": "No",
+  "Fine-Tunable": "Yes",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c43"
+  },
+  "gemini": "gpt-4o-mini-2024-07-18",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 44.48,
+  "Reasoning Average": 35.33,
+  "Mathematics Average": 41.58,
+  "Data Analysis Average": 44.52,
+  "Language Average": 35.28,
+  "IF Average": 65.68,
+  "Open Source": "No",
+  "Fine-Tunable": "Yes",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c44"
+  },
+  "gemini": "gemma-2-27b-it",
+  "VQA Enabled": "No",
+  "Parameters": "27B",
+  "Global Average": 42.32,
+  "Reasoning Average": 32,
+  "Mathematics Average": 36.23,
+  "Data Analysis Average": 43.58,
+  "Language Average": 32.4,
+  "IF Average": 67.37,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c45"
+  },
+  "gemini": "hermes-3-llama-3.1-70b",
+  "VQA Enabled": "No",
+  "Parameters": "70B",
+  "Global Average": 41.78,
+  "Reasoning Average": 33.33,
+  "Mathematics Average": 28.32,
+  "Data Analysis Average": 48.11,
+  "Language Average": 43.77,
+  "IF Average": 55.37,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c46"
+  },
+  "gemini": "qwen2-72b-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "72B",
+  "Global Average": 41.7,
+  "Reasoning Average": 41.33,
+  "Mathematics Average": 43.44,
+  "Data Analysis Average": 26.24,
+  "Language Average": 29.21,
+  "IF Average": 68.27,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c47"
+  },
+  "gemini": "dracarys-72b-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "72B",
+  "Global Average": 41.65,
+  "Reasoning Average": 40,
+  "Mathematics Average": 42.77,
+  "Data Analysis Average": 26.24,
+  "Language Average": 31.17,
+  "IF Average": 68.08,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c48"
+  },
+  "gemini": "mistral-large-2402",
+  "VQA Enabled": "No",
+  "Parameters": "123B",
+  "Global Average": 41.54,
+  "Reasoning Average": 36,
+  "Mathematics Average": 32.2,
+  "Data Analysis Average": 42.55,
+  "Language Average": 28.74,
+  "IF Average": 68.19,
+  "Open Source": "No",
+  "Fine-Tunable": "Yes",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c49"
+  },
+  "gemini": "claude-3-sonnet-20240229",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 41.19,
+  "Reasoning Average": 28.67,
+  "Mathematics Average": 29.65,
+  "Data Analysis Average": 44.56,
+  "Language Average": 38.08,
+  "IF Average": 65,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Limited Access"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c4a"
+  },
+  "gemini": "gemini-1.5-flash-api-0514",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 41.19,
+  "Reasoning Average": 29.33,
+  "Mathematics Average": 38.89,
+  "Data Analysis Average": 44.03,
+  "Language Average": 30.69,
+  "IF Average": 63.01,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Limited Access"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c4b"
+  },
+  "gemini": "meta-llama-3-70b-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "70B",
+  "Global Average": 40.87,
+  "Reasoning Average": 30.67,
+  "Mathematics Average": 32.31,
+  "Data Analysis Average": 43.75,
+  "Language Average": 34.11,
+  "IF Average": 63.5,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c4c"
+  },
+  "gemini": "smaug-qwen2-72b-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "72B",
+  "Global Average": 39.58,
+  "Reasoning Average": 36,
+  "Mathematics Average": 40.67,
+  "Data Analysis Average": 26.19,
+  "Language Average": 30.03,
+  "IF Average": 65,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c4d"
+  },
+  "gemini": "claude-3-haiku-20240307",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 38.14,
+  "Reasoning Average": 29.33,
+  "Mathematics Average": 25.72,
+  "Data Analysis Average": 41.54,
+  "Language Average": 30.07,
+  "IF Average": 64.03,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Limited Access"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c4e"
+  },
+  "gemini": "gpt-3.5-turbo-0125",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 35.9,
+  "Reasoning Average": 26.67,
+  "Mathematics Average": 26.93,
+  "Data Analysis Average": 41.21,
+  "Language Average": 24.22,
+  "IF Average": 60.47,
+  "Open Source": "No",
+  "Fine-Tunable": "Yes",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c4f"
+  },
+  "gemini": "mixtral-8x22b-instruct-v0.1",
+  "VQA Enabled": "No",
+  "Parameters": "22B",
+  "Global Average": 35.8,
+  "Reasoning Average": 29.33,
+  "Mathematics Average": 28.33,
+  "Data Analysis Average": 31.67,
+  "Language Average": 26.48,
+  "IF Average": 63.17,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c50"
+  },
+  "gemini": "command-r-plus",
+  "VQA Enabled": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 34.71,
+  "Reasoning Average": 28.67,
+  "Mathematics Average": 24.85,
+  "Data Analysis Average": 24.6,
+  "Language Average": 23.92,
+  "IF Average": 71.51,
+  "Open Source": "No",
+  "Fine-Tunable": "Yes",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c51"
+  },
+  "gemini": "mistral-small-2402",
+  "VQA Enabled": "No",
+  "Parameters": "123B",
+  "Global Average": 34.4,
+  "Reasoning Average": 26,
+  "Mathematics Average": 28.15,
+  "Data Analysis Average": 31.88,
+  "Language Average": 22.06,
+  "IF Average": 63.91,
+  "Open Source": "No",
+  "Fine-Tunable": "Yes",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c52"
+  },
+  "gemini": "phi-3-medium-4k-instruct",
+  "VQA Enabled": "No",
+  "VQA Trainable": "No",
+  "Parameters": "14B",
+  "Global Average": 33.37,
+  "Reasoning Average": 36.67,
+  "Mathematics Average": 31.36,
+  "Data Analysis Average": 31.63,
+  "Language Average": 13.91,
+  "IF Average": 53.3,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c53"
+  },
+  "gemini": "gemma-2-9b-it",
+  "VQA Enabled": "No",
+  "VQA Trainable": "No",
+  "Parameters": "9B",
+  "Global Average": 33.11,
+  "Reasoning Average": 17.33,
+  "Mathematics Average": 23.98,
+  "Data Analysis Average": 35.06,
+  "Language Average": 27.64,
+  "IF Average": 61.55,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c54"
+  },
+  "gemini": "phi-3-medium-128k-instruct",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "Yes",
+  "Parameters": "14B",
+  "Global Average": 32.13,
+  "Reasoning Average": 34,
+  "Mathematics Average": 25.64,
+  "Data Analysis Average": 32.12,
+  "Language Average": 12.76,
+  "IF Average": 56.15,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c55"
+  },
+  "gemini": "qwen1.5-110b-chat",
+  "VQA Enabled": "No",
+  "Parameters": "110B",
+  "Global Average": 31.38,
+  "Reasoning Average": 30.67,
+  "Mathematics Average": 26.28,
+  "Data Analysis Average": 31.45,
+  "Language Average": 13.22,
+  "IF Average": 55.26,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c56"
+  },
+  "gemini": "qwen1.5-72b-chat",
+  "VQA Enabled": "No",
+  "Parameters": "72B",
+  "Global Average": 30.55,
+  "Reasoning Average": 23.33,
+  "Mathematics Average": 26.82,
+  "Data Analysis Average": 32.98,
+  "Language Average": 11.37,
+  "IF Average": 58.25,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c57"
+  },
+  "gemini": "deepseek-coder-v2-lite-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 30.48,
+  "Reasoning Average": 26,
+  "Mathematics Average": 34.44,
+  "Data Analysis Average": 33,
+  "Language Average": 10.64,
+  "IF Average": 48.34,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c58"
+  },
+  "gemini": "meta-llama-3.1-8b-instruct-turbo",
+  "VQA Enabled": "No",
+  "Parameters": "8B",
+  "Global Average": 29.69,
+  "Reasoning Average": 15.33,
+  "Mathematics Average": 24.37,
+  "Data Analysis Average": 32.15,
+  "Language Average": 20.05,
+  "IF Average": 56.53,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c59"
+  },
+  "gemini": "open-mistral-nemo",
+  "VQA Enabled": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 29.26,
+  "Reasoning Average": 25.33,
+  "Mathematics Average": 21.66,
+  "Data Analysis Average": 33.35,
+  "Language Average": 14.15,
+  "IF Average": 51.8,
+  "Open Source": "No",
+  "Fine-Tunable": "Yes",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c5a"
+  },
+  "gemini": "command-r",
+  "VQA Enabled": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 29.15,
+  "Reasoning Average": 25.33,
+  "Mathematics Average": 16.92,
+  "Data Analysis Average": 31.69,
+  "Language Average": 14.64,
+  "IF Average": 57.16,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c5b"
+  },
+  "gemini": "meta-llama-3-8b-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "8B",
+  "Global Average": 29.1,
+  "Reasoning Average": 24,
+  "Mathematics Average": 19.66,
+  "Data Analysis Average": 26,
+  "Language Average": 18.72,
+  "IF Average": 57.14,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c5c"
+  },
+  "gemini": "phi-3-small-8k-instruct",
+  "VQA Enabled": "No",
+  "VQA Trainable": "No",
+  "Parameters": "7B",
+  "Global Average": 27.64,
+  "Reasoning Average": 23.33,
+  "Mathematics Average": 24.15,
+  "Data Analysis Average": 27.5,
+  "Language Average": 14.96,
+  "IF Average": 48.24,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c5d"
+  },
+  "gemini": "mathstral-7b-v0.1",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 26.47,
+  "Reasoning Average": 18,
+  "Mathematics Average": 17.84,
+  "Data Analysis Average": 27.89,
+  "Language Average": 15.37,
+  "IF Average": 53.25,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c5e"
+  },
+  "gemini": "phi-3-small-128k-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 26.4,
+  "Reasoning Average": 30,
+  "Mathematics Average": 25.53,
+  "Data Analysis Average": 27.33,
+  "Language Average": 12.28,
+  "IF Average": 36.88,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c5f"
+  },
+  "gemini": "openhermes-2.5-mistral-7b",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 26.3,
+  "Reasoning Average": 20,
+  "Mathematics Average": 20.45,
+  "Data Analysis Average": 26.92,
+  "Language Average": 11.37,
+  "IF Average": 52.78,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c60"
+  },
+  "gemini": "qwen2-7b-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 26.11,
+  "Reasoning Average": 20,
+  "Mathematics Average": 26.87,
+  "Data Analysis Average": 28.75,
+  "Language Average": 10.21,
+  "IF Average": 44.74,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c61"
+  },
+  "gemini": "mixtral-8x7b-instruct-v0.1",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 24.95,
+  "Reasoning Average": 17.33,
+  "Mathematics Average": 20.71,
+  "Data Analysis Average": 28.13,
+  "Language Average": 13.76,
+  "IF Average": 44.81,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c62"
+  },
+  "gemini": "mistral-7b-instruct-v0.3",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "Yes",
+  "Parameters": "7B",
+  "Global Average": 23.31,
+  "Reasoning Average": 16,
+  "Mathematics Average": 14.56,
+  "Data Analysis Average": 21.77,
+  "Language Average": 11.85,
+  "IF Average": 52.37,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c63"
+  },
+  "gemini": "mistral-7b-instruct-v0.2",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "Yes",
+  "Parameters": "7B",
+  "Global Average": 21.28,
+  "Reasoning Average": 14,
+  "Mathematics Average": 17.08,
+  "Data Analysis Average": 14.62,
+  "Language Average": 9.05,
+  "IF Average": 51.65,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c64"
+  },
+  "gemini": "phi-3-mini-128k-instruct",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "Yes",
+  "Parameters": "3.8B",
+  "Global Average": 20.94,
+  "Reasoning Average": 16,
+  "Mathematics Average": 23.56,
+  "Data Analysis Average": 8.69,
+  "Language Average": 6.8,
+  "IF Average": 49.65,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c65"
+  },
+  "gemini": "phi-3-mini-4k-instruct",
+  "VQA Enabled": "No",
+  "VQA Trainable": "No",
+  "Parameters": "3.8B",
+  "Global Average": 20.68,
+  "Reasoning Average": 21.33,
+  "Mathematics Average": 20.22,
+  "Data Analysis Average": 14.67,
+  "Language Average": 7.1,
+  "IF Average": 40.05,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c66"
+  },
+  "gemini": "gemma-1.1-7b-it",
+  "VQA Enabled": "Yes",
+  "VQA Trainable": "Yes",
+  "Parameters": "7B",
+  "Global Average": 20.61,
+  "Reasoning Average": 14.67,
+  "Mathematics Average": 15.21,
+  "Data Analysis Average": 18.17,
+  "Language Average": 10.65,
+  "IF Average": 44.34,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c67"
+  },
+  "gemini": "zephyr-7b-alpha",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 19.87,
+  "Reasoning Average": 12,
+  "Mathematics Average": 9.96,
+  "Data Analysis Average": 17.4,
+  "Language Average": 7.2,
+  "IF Average": 52.79,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c68"
+  },
+  "gemini": "deepseek-v2-lite-chat",
+  "VQA Enabled": "No",
+  "Parameters": "Not Disclosed",
+  "Global Average": 19.86,
+  "Reasoning Average": 16,
+  "Mathematics Average": 14.08,
+  "Data Analysis Average": 18.19,
+  "Language Average": 9.2,
+  "IF Average": 41.83,
+  "Open Source": "No",
+  "Fine-Tunable": "No",
+  "Availability": "Public"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c69"
+  },
+  "gemini": "qwen1.5-7b-chat",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 19.7,
+  "Reasoning Average": 16,
+  "Mathematics Average": 15.29,
+  "Data Analysis Average": 16.9,
+  "Language Average": 6.18,
+  "IF Average": 44.12,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c6a"
+  },
+  "gemini": "zephyr-7b-beta",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 18.45,
+  "Reasoning Average": 12.67,
+  "Mathematics Average": 11.23,
+  "Data Analysis Average": 15.75,
+  "Language Average": 4.28,
+  "IF Average": 48.32,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c6b"
+  },
+  "gemini": "vicuna-7b-v1.5-16k",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 16.87,
+  "Reasoning Average": 15.33,
+  "Mathematics Average": 9.04,
+  "Data Analysis Average": 9.93,
+  "Language Average": 7.92,
+  "IF Average": 42.12,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c6c"
+  },
+  "gemini": "starling-lm-7b-beta",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 16.22,
+  "Reasoning Average": 18.67,
+  "Mathematics Average": 14.86,
+  "Data Analysis Average": 2,
+  "Language Average": 7.26,
+  "IF Average": 38.32,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c6d"
+  },
+  "gemini": "vicuna-7b-v1.5",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 14.7,
+  "Reasoning Average": 12.67,
+  "Mathematics Average": 7.1,
+  "Data Analysis Average": 3.33,
+  "Language Average": 8.66,
+  "IF Average": 41.75,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c6e"
+  },
+  "gemini": "llama-2-7b-chat-hf",
+  "VQA Enabled": "No",
+  "Parameters": "7B",
+  "Global Average": 13.71,
+  "Reasoning Average": 12,
+  "Mathematics Average": 4.78,
+  "Data Analysis Average": 0,
+  "Language Average": 6.86,
+  "IF Average": 44.88,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c6f"
+  },
+  "gemini": "qwen1.5-4b-chat",
+  "VQA Enabled": "No",
+  "Parameters": "4B",
+  "Global Average": 12.64,
+  "Reasoning Average": 10.67,
+  "Mathematics Average": 9.86,
+  "Data Analysis Average": 9.13,
+  "Language Average": 5.8,
+  "IF Average": 27.75,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c70"
+  },
+  "gemini": "qwen2-1.5b-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "1.5B",
+  "Global Average": 11.38,
+  "Reasoning Average": 8,
+  "Mathematics Average": 9.94,
+  "Data Analysis Average": 10.01,
+  "Language Average": 3.05,
+  "IF Average": 25.9,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c71"
+  },
+  "gemini": "yi-6b-chat",
+  "VQA Enabled": "No",
+  "Parameters": "6B",
+  "Global Average": 11.1,
+  "Reasoning Average": 10.67,
+  "Mathematics Average": 8.53,
+  "Data Analysis Average": 4.38,
+  "Language Average": 4.69,
+  "IF Average": 27.22,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c72"
+  },
+  "gemini": "qwen2-0.5b-instruct",
+  "VQA Enabled": "No",
+  "Parameters": "0.5B",
+  "Global Average": 8.96,
+  "Reasoning Average": 6,
+  "Mathematics Average": 7.35,
+  "Data Analysis Average": 2,
+  "Language Average": 2.8,
+  "IF Average": 26.63,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c73"
+  },
+  "gemini": "qwen1.5-1.8b-chat",
+  "VQA Enabled": "No",
+  "Parameters": "1.8B",
+  "Global Average": 7.25,
+  "Reasoning Average": 3.33,
+  "Mathematics Average": 3.53,
+  "Data Analysis Average": 3.33,
+  "Language Average": 3.16,
+  "IF Average": 22.9,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+},
+{
+  "_id": {
+    "$oid": "674a23e0609f624d751e4c74"
+  },
+  "gemini": "qwen1.5-0.5b-chat",
+  "VQA Enabled": "No",
+  "Parameters": "0.5B",
+  "Global Average": 6.25,
+  "Reasoning Average": 2.67,
+  "Mathematics Average": 4.43,
+  "Data Analysis Average": 0,
+  "Language Average": 2.88,
+  "IF Average": 21.3,
+  "Open Source": "Yes",
+  "Fine-Tunable": "Yes",
+  "Availability": "Open Source"
+}]
